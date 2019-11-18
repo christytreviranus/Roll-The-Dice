@@ -4,7 +4,7 @@
 
 
 ## Demo Here:
-https://notyetready---
+https://christytreviranus.github.io/Roll-The-Dice/
 
 ## About this project
 
@@ -27,7 +27,7 @@ This project uses JavaScript, HTML5, CSS3, GoogleFonts, and Iconic Framework
 ## Getting started
 The following section will take you through the steps of setting up this application and getting it running locally on your computer.
 
-If you don't want to set up this project locally and just want to see the deployed application, go to  https://.
+If you don't want to set up this project locally and just want to see the deployed application, go to https://christytreviranus.github.io/Roll-The-Dice/.
 
 To set up this application locally on your computer, perform the following steps:
   1. Clone the repository
