@@ -17,6 +17,7 @@ let scores, roundScore, activePlayer;
 newGame();
 
 //Dice Behavior on ROLL
+document.querySelector('.dice').style.display = 'none';
 
 document.querySelector('.btn-roll').addEventListener('click', () => {
     //Get random number
