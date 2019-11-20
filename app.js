@@ -13,15 +13,10 @@ GAME RULES:
 //Declare variables
 let scores, roundScore, activePlayer;
 
-score = [0, 0];
-roundScore = 0;
-activePlayer = 0;
-
 //Start New Game
 newGame();
 
 //Dice Behavior on ROLL
-document.querySelector('.dice').style.display = 'none';
 
 document.querySelector('.btn-roll').addEventListener('click', () => {
     //Get random number
