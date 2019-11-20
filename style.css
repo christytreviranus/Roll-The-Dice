@@ -161,4 +161,17 @@ i {
 }
 
 .winner { background-color: #f7f7f7; }
-.winner .player-name { font-weight: 300; color: #EB4D4D; }
+.winner .player-name { 
+    font-weight: 300; 
+    color: #EB4D4D; 
+    animation: blinking 1s 10;
+}
+
+@keyframes blinking {
+    0%{
+      color: #EB4D4D;
+    }
+    100%{
+      color: black;
+    }
+}
