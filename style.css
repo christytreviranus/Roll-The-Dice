@@ -107,6 +107,31 @@ body {
     font-size: 30px;
 }
 
+.winning-score {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 600px;
+    color: orangered;
+    background: white;
+    border: 2px solid #EB4D4D;
+    padding: 5px;
+    font-size: 18px;
+    font-family: 'Lato';
+    text-align: center;
+    width: 200px;
+    font-weight: 300;
+    text-transform: uppercase;
+    transition: background-color 0.3s, color 0.3s;
+    transition: background-color 0.3s, color 0.3s;
+    background-image: linear-gradient(to right, #555555, black);
+    border-radius: 10px;
+}
+
+.winning-score:focus {
+    outline: none;
+}
+
 button {
     position: absolute;
     width: 200px;
@@ -175,3 +200,4 @@ i {
       color: black;
     }
 }
+
