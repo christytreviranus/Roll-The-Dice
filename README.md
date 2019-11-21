@@ -1,7 +1,7 @@
 # Roll-The-Dice
 <p>A basic JS web application</p>
 
-
+![Roll The Dice landing page](https://github.com/christytreviranus/Roll-The-Dice/blob/master/home-image.png)
 
 ## Demo Here:
 https://christytreviranus.github.io/Roll-The-Dice/
